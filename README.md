@@ -2,11 +2,14 @@
 
 ### App Description
 A simple Hello World App for CodePath.
+Submitted by Nurillo.
+
+Time spent: **10** hours spent in total
 
 ### App Walk-though
 Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. 
 
-<img src="https://user-images.githubusercontent.com/59973492/151909430-d371f791-e4d3-4e9f-bc58-a1eda3e8be34.gif"> width=200><br>
+<img src='my_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. 
 ### Required User Stories
